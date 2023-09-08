@@ -1,0 +1,55 @@
+{
+  "name": "hisoka-morou",
+  "version": "3.0.1",
+  "description": "WhatsApp Bot Using Lib whatsapp-web.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js --max-old-space-size=8192"
+  },
+  "keywords": [
+    "wawebjs",
+    "base-wabot",
+    "playwright",
+    "hisoka",
+    "whatsapp-web.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DikaArdnt/Hisoka-Morou"
+  },
+  "bugs": {
+    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+  },
+  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou",
+  "author": {
+    "name": "Dika Ardnt.",
+    "email": "dika.ardianta7@yahoo.com",
+    "url": "https://github.com/DikaArdnt"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@bochilteam/scraper": "^4.2.4",
+    "@bochilteam/scraper-sosmed": "^1.0.5",
+    "canvas": "^2.10.2",
+    "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "chokidar": "^3.5.3",
+    "file-type": "^18.2.1",
+    "i18n": "^0.15.1",
+    "jsdom": "^22.1.0",
+    "module-alias": "^2.2.2",
+    "moment-timezone": "^0.5.41",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.1.0",
+    "node-base64-image": "^2.0.5",
+    "node-fetch": "^3.3.2",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.32.0",
+    "spotify-finder": "^2.1.1",
+    "util": "^0.12.5",
+    "whatsapp-web.js": "github:amiruldev20/mywajs",
+    "xfarr-api": "^2.0.0",
+    "youtubei": "^1.1.2"
+  }
+}
