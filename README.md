@@ -33,9 +33,9 @@ Add to PATH environment variable
 </details>
 
 <b><details><summary>Android</summary></b>
-<b>Follow Tutorial Below</b>
-*[`Click here`](https://youtu.be/oHsyRXj_l0M?si=vavEUMeuijG4h7-n)
-<b>And open Ubuntu Tutorial</b>
+<b>Watch This Tutorial</b>
+[`Click here`](https://youtu.be/oHsyRXj_l0M?si=vavEUMeuijG4h7-n)
+<b>And open Ubuntu Tutorial Below</b>
 </details>
 
 <b><details><summary>Ubuntu</summary></b>
